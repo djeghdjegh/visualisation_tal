@@ -1,0 +1,137 @@
+{
+    "data": [
+      {
+        "Rank": 1,
+        "Country": "Australia",
+        "Stability": 86,
+        "Rights": 92,
+        "Health": 87,
+        "Safety": 100,
+        "Climate": 90,
+        "Costs": 23,
+        "Popularity": 41,
+        "TotalQualityOfLife": 76
+      },
+      {
+        "Rank": 2,
+        "Country": "San Marino",
+        "Stability": 81,
+        "Rights": 82,
+        "Health": 91,
+        "Safety": 87,
+        "Climate": 62,
+        "Costs": 61,
+        "Popularity": 47,
+        "TotalQualityOfLife": 74
+      },
+      {
+        "Rank": 3,
+        "Country": "Hong Kong",
+        "Stability": 77,
+        "Rights": 85,
+        "Health": 100,
+        "Safety": 97,
+        "Climate": 49,
+        "Costs": 61,
+        "Popularity": 41,
+        "TotalQualityOfLife": 74
+      },
+      {
+        "Rank": 4,
+        "Country": "Switzerland",
+        "Stability": 91,
+        "Rights": 99,
+        "Health": 93,
+        "Safety": 99,
+        "Climate": 34,
+        "Costs": 44,
+        "Popularity": 46,
+        "TotalQualityOfLife": 74
+      },
+      {
+        "Rank": 5,
+        "Country": "Macao",
+        "Stability": 90,
+        "Rights": 71,
+        "Health": 100,
+        "Safety": 93,
+        "Climate": 48,
+        "Costs": 61,
+        "Popularity": 44,
+        "TotalQualityOfLife": 73
+      },
+      {
+        "Rank": 6,
+        "Country": "Malta",
+        "Stability": 86,
+        "Rights": 72,
+        "Health": 91,
+        "Safety": 92,
+        "Climate": 75,
+        "Costs": 41,
+        "Popularity": 44,
+        "TotalQualityOfLife": 72
+      },
+      {
+        "Rank": 7,
+        "Country": "Luxembourg",
+        "Stability": 93,
+        "Rights": 99,
+        "Health": 85,
+        "Safety": 100,
+        "Climate": 25,
+        "Costs": 46,
+        "Popularity": 42,
+        "TotalQualityOfLife": 71
+      },
+      {
+        "Rank": 8,
+        "Country": "Bermuda",
+        "Stability": 89,
+        "Rights": 78,
+        "Health": 96,
+        "Safety": 93,
+        "Climate": 68,
+        "Costs": 34,
+        "Popularity": 35,
+        "TotalQualityOfLife": 71
+      },
+      {
+        "Rank": 9,
+        "Country": "Singapore",
+        "Stability": 83,
+        "Rights": 89,
+        "Health": 79,
+        "Safety": 100,
+        "Climate": 45,
+        "Costs": 55,
+        "Popularity": 39,
+        "TotalQualityOfLife": 71
+      },
+      {
+        "Rank": 10,
+        "Country": "Spain",
+        "Stability": 64,
+        "Rights": 73,
+        "Health": 87,
+        "Safety": 95,
+        "Climate": 74,
+        "Costs": 43,
+        "Popularity": 66,
+        "TotalQualityOfLife": 71
+      },
+      {
+        "Rank": 11,
+        "Country": "Japan",
+        "Stability": 87,
+        "Rights": 86,
+        "Health": 92,
+        "Safety": 97,
+        "Climate": 58,
+        "Costs": 27,
+        "Popularity": 36,
+        "TotalQualityOfLife": 70
+      }
+    ]
+  }
+  
